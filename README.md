@@ -30,7 +30,6 @@ Open swagger
    ```sh
    npm start
    ```
-5. How to open on browswer from swagger
 
 ## Run tests
 
