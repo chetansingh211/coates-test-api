@@ -40,3 +40,7 @@ npm test
 ## Open API via Swagger-UI docs
 
 *[API on LOCAL](http://localhost:8080/api-docs/)
+
+```sh
+http://localhost:8080/api-docs/
+```
