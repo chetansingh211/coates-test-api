@@ -15,6 +15,10 @@ Open swagger
 
    ```sh
    npm install
+   
+   or 
+   
+   npm install --force
    ```
 ## Compile
 
